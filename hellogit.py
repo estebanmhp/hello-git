@@ -1,1 +1,1 @@
-printf("Hello Git!")
+printf("Hello GitHub!")
